@@ -11,6 +11,5 @@ I would like to thank asahani for having an excellent central place for plugin d
 https://github.com/asahani/vera-daikin-wifi-controller
 
 ## References ##
-
-Forum: Daikin Airbase BRP15B61 WiFi Controller - http://forum.micasaverde.com/index.php/topic,124006.0.html
-Forum: Daikin Airbase - https://forums.whirlpool.net.au/thread/2768285
+* Forum - Daikin Airbase BRP15B61 WiFi Controller - http://forum.micasaverde.com/index.php/topic,124006.0.html
+* Forum - Daikin Airbase - https://forums.whirlpool.net.au/thread/2768285
