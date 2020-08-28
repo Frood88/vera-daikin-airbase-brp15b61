@@ -8,6 +8,16 @@ The LUA files above are supplementary to asahani's plugin below - install that o
 
 You may also find it interesting to compare the differences between the files above and the equivalent original files in asahani's plugin to see the critical I've found (so far) between the older and newer Daikin interfaces.
 
+## Current Critical Capabilities ##
+
+Working as intended:
+ - Change mode between Off/Heat/Cool from Vera
+ - Mode and Temperature changes made on the wall controller are visible in Vera
+ 
+Work still in progress:
+ - Change mode to Auto from Vera
+ - Change temperature from Vera for Heat/Cool modes
+
 ## Acknowledgements ##
 
 I would like to thank asahani for having an excellent central place for plugin development and other references and to all who asahani acknowledges.
