@@ -4,7 +4,7 @@ This was going to be a new plugin for the Daikin BRP15B61 WiFi controller module
 
 This is my first attempt at modifying a plugin for Vera and is very much a work in progress - suggestions/additions welcome!
 
-The LUA files above are supplementary to asahani's plugin below - install that one, then upload the LUA files above to Vera to update it for Airbase compatibility.
+The LUA files above are supplementary to asahani's plugin below (which is for the older Daikin SkyFi controller) - install that plugin, then upload the modified LUA files above to Vera to update it for Airbase compatibility, then configure the new device in Vera, based on asahani's instructions.
 
 You may also find it interesting to compare the differences between the files above and the equivalent original files in asahani's plugin to see the critical I've found (so far) between the older and newer Daikin interfaces.
 
