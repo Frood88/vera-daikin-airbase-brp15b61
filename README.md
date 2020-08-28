@@ -1,8 +1,12 @@
 # Daikin Airbase BRP15B61 #
 
-This is a plugin for the Daikin BRP15B61 WiFi controller module for Vera UI7.
+This was going to be a new plugin for the Daikin BRP15B61 WiFi controller module for Vera UI7, but I realised that some small modifications to some files in an existing plugin was all that was required.
 
-This is my first plugin for Vera and is very much a work in progress.
+This is my first attempt at modifying a plugin for Vera and is very much a work in progress - suggestions/additions welcome!
+
+The LUA files above are supplementary to asahani's plugin below - install that one, then upload the LUA files above to Vera to update it for Airbase compatibility.
+
+You may also find it interesting to compare the differences between the files above and the equivalent original files in asahani's plugin to see the critical I've found (so far) between the older and newer Daikin interfaces.
 
 ## Acknowledgements ##
 
