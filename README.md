@@ -11,8 +11,8 @@ You may also find it interesting to compare the differences between the files ab
 ## Current Critical Capabilities ##
 
 Working as intended:
- - Change mode between Off/Heat/Cool from Vera
- - Mode and Temperature changes made on the wall controller are visible in Vera
+ - Change mode between Off/Heat/Cool from Vera takes effect immediately on the wall controller
+ - Mode and Temperature changes made on the wall controller are visible in Vera at next update/poll
  
 Work still in progress:
  - Change mode to Auto from Vera
