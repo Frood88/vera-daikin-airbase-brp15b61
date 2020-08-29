@@ -12,12 +12,12 @@ You may also find it interesting to compare the differences between the files ab
 
 Working as intended:
  - Change mode between Off/Heat/Cool from Vera takes effect immediately on the wall controller
+ - Change temperature for Heat/Cool modes from Vera takes effect immediately on the wall controller
  - Mode and Temperature changes made on the wall controller are visible in Vera at next update/poll
- 
+  
 Work still in progress:
  - Change mode to Auto from Vera
- - Change temperature from Vera for Heat/Cool modes
-
+ 
 ## Acknowledgements ##
 
 I would like to thank asahani for having an excellent central place for plugin development and other references and to all who asahani acknowledges.
